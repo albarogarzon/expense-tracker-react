@@ -1,6 +1,6 @@
 ## Expense Tracker (with React)
 
-Keep track of income and expenses. Add and remove items and save to local storage
+Keep track of income and expenses.
 
 ## Project Specifications
 
