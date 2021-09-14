@@ -1,4 +1,4 @@
-## Expense Tracker (with React)
+## Expense Tracker (with React, Node js and Mongo DB)
 
 Keep track of income and expenses.
 
